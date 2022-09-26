@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:primaryType="nt:unstructured">
+    <gui jcr:primaryType="nt:unstructured">
+        <components jcr:primaryType="nt:unstructured">
+            <renderconditions jcr:primaryType="nt:unstructured">
+                <group/>
+            </renderconditions>
+        </components>
+    </gui>
+</jcr:root>

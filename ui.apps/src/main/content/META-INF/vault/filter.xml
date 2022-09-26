@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/wcm"/>
+    <filter root="/apps/wcm/core"/>
+    <filter root="/apps/wcm/core/content"/>
+    <filter root="/apps/cq/gui"/>
+    <filter root="/apps/cq/gui/components"/>
+    <filter root="/apps/cq/gui/components/renderconditions"/>
+    <filter root="/apps/wcm/core/content/editor/jcr:content/content/items/content/header/items/headerbar/items/pageinfopopover/items/list/items/lock"/>
+    <filter root="/apps/wcm/core/content/sites/jcr:content/actions/selection/lockpage"/>
+</workspaceFilter>
